@@ -9,3 +9,8 @@ Swift and Xcode
 Expand functionalities to include invite and sharing options; have a more complete and fun quiz bank of different categories
 
 ## Sneak Peak
+![](Demo/Sample_Questions.png)
+
+Find out which bare bear is most similar to you:
+
+![](Demo/Sample_Result.png)
